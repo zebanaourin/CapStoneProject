@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e17f5df1-b91c-49ad-89d6-2b657021b6e3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../HLD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Summary of Understanding.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/.idea/backend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/foodNwaste/foodNwaste/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/foodNwaste/foodNwaste/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/foodNwaste/foodNwaste/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/foodNwaste/foodNwaste/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/foodNwaste/foodNwaste/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/foodNwaste/foodNwaste/src/main/java/com/capstone/foodNwaste/FoodNwasteApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/foodNwaste/foodNwaste/src/main/java/com/capstone/foodNwaste/controller/FoodNWasteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/foodNwaste/foodNwaste/src/main/java/com/capstone/foodNwaste/model/FoodNWaste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/foodNwaste/foodNwaste/src/main/java/com/capstone/foodNwaste/repository/FoodNWasteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/foodNwaste/foodNwaste/src/main/java/com/capstone/foodNwaste/service/FoodNWasteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/foodNwaste/foodNwaste/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/foodNwaste/foodNwaste/src/test/java/com/capstone/foodNwaste/FoodNwasteApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/gadgets/gadgets/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/gadgets/gadgets/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/gadgets/gadgets/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/gadgets/gadgets/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/gadgets/gadgets/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/gadgets/gadgets/src/main/java/com/capstone/gadgets/GadgetsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/gadgets/gadgets/src/main/java/com/capstone/gadgets/controller/GadgetController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/gadgets/gadgets/src/main/java/com/capstone/gadgets/model/Gadget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/gadgets/gadgets/src/main/java/com/capstone/gadgets/repository/GadgetRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/gadgets/gadgets/src/main/java/com/capstone/gadgets/service/GadgetService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/gadgets/gadgets/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/gadgets/gadgets/src/test/java/com/capstone/gadgets/GadgetsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/leaderboard/leaderboard/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/leaderboard/leaderboard/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/leaderboard/leaderboard/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/leaderboard/leaderboard/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/leaderboard/leaderboard/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/leaderboard/leaderboard/src/main/java/com/capstone/leaderboard/LeaderboardApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/leaderboard/leaderboard/src/main/java/com/capstone/leaderboard/controller/LeaderboardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/leaderboard/leaderboard/src/main/java/com/capstone/leaderboard/model/Leaderboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/leaderboard/leaderboard/src/main/java/com/capstone/leaderboard/repository/LeaderboardRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/leaderboard/leaderboard/src/main/java/com/capstone/leaderboard/service/LeaderboardService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/leaderboard/leaderboard/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/leaderboard/leaderboard/src/test/java/com/capstone/leaderboard/LeaderboardApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/travel/travel/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/travel/travel/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/travel/travel/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/travel/travel/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/travel/travel/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/travel/travel/src/main/java/com/capstone/travel/TravelApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/travel/travel/src/main/java/com/capstone/travel/controller/TravelController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/travel/travel/src/main/java/com/capstone/travel/model/Travel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/travel/travel/src/main/java/com/capstone/travel/repository/TravelRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/travel/travel/src/main/java/com/capstone/travel/service/TravelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/travel/travel/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/travel/travel/src/test/java/com/capstone/travel/TravelApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securityfiles/src/main/java/com/serviceharbor/auth/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/securityfiles/src/main/java/com/serviceharbor/auth/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securityfiles/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/securityfiles/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securityfiles/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/securityfiles/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securityfiles/target/classes/com/serviceharbor/auth/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/securityfiles/target/classes/com/serviceharbor/auth/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../highleveldiagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schemadiagram.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Owais94033&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Owais94033/Capstone_CarbonFootPrint.git",
+    "accountId": "003e3844-236e-48bd-88cb-9d0ad4f5e131"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2mBJkZLcVC6YSoFPJhe7iYnnUPU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LbeurekaserviceApplication.executor": "Run",
+    "Application.UserManagementApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/285564/PractiseProject/Capstone_CarbonFootPrint/capstoneuser/Backend_trial"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e17f5df1-b91c-49ad-89d6-2b657021b6e3" name="Changes" comment="" />
+      <created>1726544180475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726544180475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/securityfiles/src/main/java/com/serviceharbor/auth/controller/AuthenticationController.java</url>
+          <line>17</line>
+          <properties field="authenticationService" class="com.serviceharbor.auth.controller.AuthenticationController" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
