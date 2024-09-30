@@ -38,23 +38,16 @@ export class LoginComponent {
       console.log(response);
       
       let token = response.token;
-      // Store the token in localStorage or sessionStorage
       localStorage.setItem('authToken', token);
 
-      // get user data
       this.authSerive.getUser(formData.email).subscribe( d => {
-        // localStorage.setItem("user",d)
-        // console.log(localStorage.getItem("user"))
-        // console.log("yoooo",localStorage)
         localStorage.setItem("user", JSON.stringify(d));
-        // Retrieve and parse the string back into an object when needed
         console.log(JSON.parse(localStorage.getItem("user") || '{}'));
 
         console.log(localStorage.getItem("user"));
         
       })
-      // Redirect to another component, e.g., the dashboard
-      this.router.navigate(["/home"]); // Change this to your target component
+      this.router.navigate(["/home"]); 
     });
   }
 }

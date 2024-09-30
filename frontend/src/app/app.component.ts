@@ -22,7 +22,6 @@ export class AppComponent implements OnInit{
   constructor(private router: Router) {}
 
   ngOnInit(): void {
-    // Get the current URL and decide if navbar should be visible
     this.router.events.pipe(
       filter(event => event instanceof NavigationEnd)
     ).subscribe((event: Event) => {
@@ -31,9 +30,8 @@ export class AppComponent implements OnInit{
     // this.router.url.forEach(()=>console.log('Hello'))
   }
 
-  // Determine if the navbar should be shown based on the current URL
   checkRoute(url: NavigationEnd) {
-    const hideNavbarRoutes = ['/login', '/signup','/']; // Routes where navbar is hidden
+    const hideNavbarRoutes = ['/login', '/signup','/']; 
     this.showNavbar = !hideNavbarRoutes.some(route => url.url==route);
   }
 }

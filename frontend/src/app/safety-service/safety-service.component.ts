@@ -19,7 +19,7 @@ export class SafetyServiceComponent implements AfterViewInit {
   @ViewChild('map') mapContainer!: ElementRef;
   map: L.Map | null = null;
   searchQuery: string = '';
-  weatherData: any = null;  // Add weather data property
+  weatherData: any = null;  
 
   ngAfterViewInit(): void {
     this.initializeMap();

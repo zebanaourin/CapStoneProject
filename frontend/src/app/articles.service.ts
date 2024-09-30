@@ -84,6 +84,6 @@ export class ArticlesService {
   constructor() {}
 
   getArticles(): Observable<any[]> {
-    return of(this.articles); // Simulate an API call
+    return of(this.articles); 
   }
 }

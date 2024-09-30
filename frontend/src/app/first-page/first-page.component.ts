@@ -10,19 +10,19 @@ import { Router } from '@angular/router';
   styleUrl: './first-page.component.css'
 })
 export class FirstPageComponent {
-  showPopup = false; // Property to manage the popup visibility
+  showPopup = false; 
 
-  constructor(private router: Router) {} // Inject Router service
+  constructor(private router: Router) {} 
 
   togglePopup() {
-    this.showPopup = !this.showPopup; // Toggle the visibility of the popup
+    this.showPopup = !this.showPopup; 
   }
 
   navigateToLogin() {
-    this.router.navigate(['/login']); // Navigate to the login route
+    this.router.navigate(['/login']);
   }
 
   navigateToSignup() {
-    this.router.navigate(['/signup']); // Navigate to the signup route
+    this.router.navigate(['/signup']); 
   }
 }

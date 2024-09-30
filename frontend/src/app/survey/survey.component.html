@@ -6,8 +6,6 @@
     <div *ngFor="let question of questions; let i = index">
       <ng-container *ngIf="currentQuestionIndex === i">
         <h3>{{ question.text }}</h3>
-
-        <!-- Options in flexbox with text aligned to the left -->
         <div *ngFor="let option of question.options" class="option">
           <input
             type="radio"

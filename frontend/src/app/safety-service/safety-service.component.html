@@ -1,11 +1,9 @@
 <app-navbar> </app-navbar>
 <div class="container">
     <div class="search-bar">
-      <input [(ngModel)]="searchQuery" placeholder="Enter location" />
+      <input [(ngModel)]="searchQuery" placeholder="Please Enter a location" />
       <button (click)="onSearchSubmit()">Search</button>
     </div>
-  
-    <!-- Overall container for map and weather data -->
     <div class="content-container">
       <!-- Map container -->
       <div #map class="map-container"></div>
@@ -20,7 +18,7 @@
       </div>
       <ng-template #noWeather>
         <div class="placeholder-message">
-          <h3>Please enter a location</h3>
+          <!-- <h3>Please enter a location</h3> -->
           <p>Weather information will be displayed here once you search for a location.</p>
         </div>
       </ng-template>

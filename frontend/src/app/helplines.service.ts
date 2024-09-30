@@ -92,6 +92,6 @@ export class HelplineService {
       }
     ];
 
-    return of(helplines); // Ensure this returns all helplines
+    return of(helplines); 
   }
 }

@@ -7,7 +7,7 @@ import { HttpClientModule, HttpClient } from '@angular/common/http';
 @Component({
   selector: 'app-signup',
   standalone: true,
-  imports: [RouterLink, CommonModule, ReactiveFormsModule, HttpClientModule], // Include HttpClientModule
+  imports: [RouterLink, CommonModule, ReactiveFormsModule, HttpClientModule], 
   templateUrl: './signup.component.html',
   styleUrls: ['./signup.component.css']
 })

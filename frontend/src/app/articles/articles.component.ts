@@ -16,10 +16,10 @@ import { NavbarComponent } from '../navbar/navbar.component';
 export class ArticlesComponent implements OnInit {
   articles: any[] = [];
   filteredArticles: any[] = [];
-  selectedArticle: any = null; // Property to store the selected article for the modal
-  isModalOpen: boolean = false; // Property to control modal visibility
+  selectedArticle: any = null; 
+  isModalOpen: boolean = false; 
 
-  constructor(private articlesService: ArticlesService) {} // Inject the ArticlesService
+  constructor(private articlesService: ArticlesService) {} 
 
   ngOnInit(): void {
     this.fetchArticles();
@@ -27,8 +27,8 @@ export class ArticlesComponent implements OnInit {
 
   fetchArticles(): void {
     this.articlesService.getArticles().subscribe((data) => {
-      this.articles = data; // Assign fetched articles to the articles property
-      this.filteredArticles = this.articles; // Initially show all articles
+      this.articles = data; 
+      this.filteredArticles = this.articles; 
     });
   }
 
@@ -40,11 +40,11 @@ export class ArticlesComponent implements OnInit {
   }
 
   openModal(article: any): void {
-    this.selectedArticle = article; // Set the selected article
-    this.isModalOpen = true; // Open the modal
+    this.selectedArticle = article; 
+    this.isModalOpen = true; 
   }
 
   closeModal(): void {
-    this.isModalOpen = false; // Close the modal
+    this.isModalOpen = false; 
   }
 }
